@@ -1,9 +1,8 @@
-### Hi there 👋
 [![Header](https://github.com/spvb17/spvb17/blob/main/assets/wallhaven-4ow5p0.png)](https://t.me/spvb17)
 
-## I'm a beginner java developer
+# I'm a beginner java developer
 
-### Languages and tools
+## Languages and tools
 
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=spring)
@@ -15,7 +14,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-090909?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spvb17&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-### Follow me
+## Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/spvb17)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/spvb17/)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk)](https://vk.com/saparalievb17/)
