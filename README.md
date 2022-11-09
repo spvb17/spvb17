@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Header](https://github.com/spvb17/spvb17/blob/main/assets/video_2022-11-09_23-41-03.gif)](https://t.me/spvb17)
 
-## I'm beginner backend developer
+## I'm a beginner java developer
 
 ### Languages and tools
 
@@ -20,4 +20,4 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/spvb17/)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk)](https://vk.com/saparalievb17/)
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bekzhan-saparaliev-94737a252/)
-[![Twitter](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=twitter)](https://twitter.com/saparalievb17)
+[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=twitter)](https://twitter.com/saparalievb17)
