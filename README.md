@@ -13,8 +13,8 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-090909?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ## Follow me
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)(https://t.me/spvb17)]
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)(https://www.instagram.com/spvb17/)]
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk)(https://vk.com/saparalievb17/)]
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin)(https://www.linkedin.com/in/bekzhan-saparaliev-94737a252/)]
-[![Twitter](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=twitter)(https://twitter.com/saparalievb17)]
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/spvb17)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/spvb17/)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk)](https://vk.com/saparalievb17/)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bekzhan-saparaliev-94737a252/)
+[![Twitter](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=twitter)](https://twitter.com/saparalievb17)
