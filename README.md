@@ -1,7 +1,4 @@
 [![Header](https://github.com/spvb17/spvb17/blob/main/assets/wallhaven-4ow5p0.png)](https://t.me/spvb17)
-<div style="background-color: #242424; height: 50px; width: 1000px">
-    <p style="color: white; font-size: 100px">Saparaliev Begzhan
-</div>
 
 # I'm a beginner java developer
 
