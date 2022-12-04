@@ -1,4 +1,4 @@
-[![Header](https://github.com/spvb17/spvb17/blob/main/assets/wallhaven-4ow5p0.png)](https://t.me/spvb17)
+[![Новый проект](https://user-images.githubusercontent.com/90541044/205480683-f4466f55-4591-4dea-be1b-4518cceaf9e5.png)](https://t.me/spvb17)
 
 # I'm a beginner java developer
 
@@ -8,10 +8,8 @@
 ![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=spring)
 ![MySQL](https://img.shields.io/badge/mysql-090909?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-090909?style=for-the-badge&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/react-090909?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/Javascript-090909?style=for-the-badge&logo=javascript&logoColor=%2361DAFB)
 ![Github](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-090909?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spvb17&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ## Follow me
