@@ -1,6 +1,14 @@
 [![Новый проект](https://user-images.githubusercontent.com/90541044/205480683-f4466f55-4591-4dea-be1b-4518cceaf9e5.png)](https://t.me/spvb17)
 
-# I'm a beginner java developer
+# I'm a junior Java developer
+
+About me
+
+* 20 years old
+* Third year student at IITU
+* Software engineering major, GPA - 3.2
+* Currently working as a Java teacher at an online school
+* My CV - https://drive.google.com/file/d/1tiznesuRPt11ot76Se67IayWLa5W8MI4/view?usp=share_link 
 
 ## Languages and tools
 
